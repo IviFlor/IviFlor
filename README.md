@@ -15,13 +15,13 @@
 ## Habilidades
 
 - Desarrollo web (HTML, CSS, JavaScript).
-- Python.
+- Conocimientos de Python.
 - Diseño gráfico (CANVA).
 - Redes sociales.
 
 ## Metas y Objetivos
 
-- Convertirme en un desarrollador full-stack.
+- Convertirme en una desarrolladora full-stack.
 - Explorar la ciencia de datos e inteligencia artificial.
 
 ## Intereses
