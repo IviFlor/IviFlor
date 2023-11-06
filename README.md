@@ -8,6 +8,7 @@
 - 👀 Interesada en desarrollo web y tecnologías como HTML, CSS, JavaScript y Python.
 - 🌱 Aprendiendo en freeCodeCamp.
 - 💬 Puedes preguntarme sobre desarrollo Frontend si te interesa.
+- 🚀 Proyecto actual:
 - 📫 Cómo contactarme:
   - Correo electrónico: [ivanavera03@gmail.com](mailto:ivanavera03@gmail.com)
 
