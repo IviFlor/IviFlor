@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- Soy un programadora frontend junior a quien le apasiona la programación.
+- 👩‍💻 Soy un programadora frontend junior a quién le apasiona la programación.
 - 👀 Interesada en desarrollo web y tecnologías como HTML, CSS, JavaScript y Python.
 - 🌱 Aprendiendo en freeCodeCamp.
 - 💬 Puedes preguntarme sobre desarrollo Frontend si te interesa.
