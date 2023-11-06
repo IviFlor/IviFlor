@@ -33,7 +33,7 @@
 ¡Gracias por visitar mi perfil de GitHub! No dudes en explorar mis proyectos y ponerte en contacto si tienes alguna pregunta o sugerencia.
 
 <p align="center">
-  <img src="https://neosabers.com/wp-content/uploads/2022/12/image-37-1024x558.png" alt="Jade de Star Wars" width="200">
+  <img src="https://neosabers.com/wp-content/uploads/2022/12/image-37-1024x558.png" alt="Jade de Star Wars" width="800" height="800">
 </p>
 
 <!---
