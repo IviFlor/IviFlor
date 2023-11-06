@@ -1,4 +1,4 @@
-# ¡Hola! Soy @IviFlor
+# ¡Hola! Soy Ivana, mi usuario: @IviFlor
 
 👋 ¡Bienvenido a mi repositorio de GitHub!
 
@@ -31,6 +31,10 @@
 - Series, películas, anime y manga.
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en explorar mis proyectos y ponerte en contacto si tienes alguna pregunta o sugerencia.
+
+<p align="center">
+  <img src="https://neosabers.com/wp-content/uploads/2022/12/image-37-1024x558.png" alt="Jade de Star Wars" width="200">
+</p>
 
 <!---
 IviFlor/IviFlor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
